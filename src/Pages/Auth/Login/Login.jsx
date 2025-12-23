@@ -10,7 +10,7 @@ import Form from "@/Pages/Layouts/Components/Form";
 import { login } from "@/Utils/Apis/AuthApi";
 import { useAuthStateContext } from "@/Utils/Contexts/AuthContext";
 
-import { dummyUser } from "@/Data/Dummy";
+import { dummyUser } from "@/Data/Dummy.js";
 import { toastError, toastSuccess } from "@/Utils/Helpers/ToastHelpers";
 
 const Login = () => {
