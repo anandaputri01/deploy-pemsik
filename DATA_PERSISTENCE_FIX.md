@@ -340,4 +340,3 @@ If you encounter issues:
 
 ---
 
-**Your data will now persist! 🎉**
